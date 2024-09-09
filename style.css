@@ -1,0 +1,46 @@
+#banner {
+height: 90vh;
+background:linear-gradient(to right , hsla(0, 17%, 26%, 0.07), rgba(145, 144, 126, 0.19)), url('image.jpg');
+background-size: cover; 
+}
+ .btn {
+    padding: 30px 50px;
+    border-radius: 90;
+    font-size: 18px;
+    font-weight: 950;
+    transition: all .4s ease;
+
+ }
+.btn-brand {
+    background-color: darkgrey;
+    color: darkgreen;
+    border: 3px salmon
+}
+.btn-brand:hover{
+    background-color: greenyellow;
+    border: 3px solid steelblue
+    color blueviolet
+}
+ section {
+    padding: 100px 0px;
+
+ }
+ #about h2{
+    font: 55px;
+    font-weight: 1000;
+    color: greenyellow;
+ }
+
+ #service {
+   background-color: #FAFAFA;
+ }
+
+ #service h3 {
+   font: 55px;
+    font-weight: 1000;
+    color: rgb(71, 47, 255);
+ }
+
+ .uwu {
+   width: 40%;
+ }
