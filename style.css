@@ -131,3 +131,22 @@
  .testimonials a{
    color:  rgb(36, 8, 173);
  }
+ footer {
+  padding-top: 50px;
+  padding-bottom: 50;
+  background-color: darkgray;
+}
+
+#footer ul.list-unstyled li a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+#footer ul.list-unstyled li:hover a {
+  color: maroon;
+}
+
+.btn-outline-light {
+  border-color: #FFF;
+  border-radius: 0;
+}
